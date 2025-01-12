@@ -15,6 +15,6 @@ public class Main {
 
         System.out.println();
         System.out.println(warAndPeace.getTitle() + ", " + warAndPeace.getPublication() + ", " + levTolstoy.getName() + " " + levTolstoy.getSurname());
-        System.out.println(crimeAndPunishment.getTitle() + " " + crimeAndPunishment.getPublication() + ", " + federDostoevsky.getName() + " " + federDostoevsky.getSurname());
+        System.out.println(crimeAndPunishment.getTitle() + ", " + crimeAndPunishment.getPublication() + ", " + federDostoevsky.getName() + " " + federDostoevsky.getSurname());
     }
 }
